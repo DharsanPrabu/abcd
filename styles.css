@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+/* HEADER */
+header{
+    margin: 0;
+    width: 100%;
+    background-color: darkcyan;
+    padding: 10px 0;
+}
+header ul{
+    padding: 0;
+    list-style: none;
+    text-align: right;
+    padding-right: 10px;
+}
+header li{
+    display: inline-block;
+}
+header a{
+    color:purple ;
+    text-decoration: none;
+    font: size 1px;;
+    text-align: center;
+    padding: 10px;
+}
+/* section */
+.middle-container{
+    margin: 50px;
+}
+.profile{
+    padding: 60px 0 100px 0;
+}
+.skills{
+    position: absolute;
+    top: 700px;
+    left: 260px;
+}
+.skills-row{
+    margin: 100px auto;
+}
+.computers{
+    float: left;
+    margin-right: 20px;
+    line-height: 4;
+    text-align: right;
+    position: relative;
+    bottom: 80px;
+    left: 10px;
+    margin: 20px;
+    border: 20px;
+    padding: 20px;
+}
+.javascript{
+    float: right;
+    margin-left: 20px;
+    line-height: 4;
+    text-align: left;
+    position: relative;
+    bottom: 75px;
+    margin: 20px;
+    border: 20px;
+    padding: 20px;
+    }
+    .contact-me{
+        position: relative;
+        top: 750px;
+    }
+    .btn{
+        color: aqua;
+
+    }
+    /* footer */
+    footer{
+        width: 100%;
+    }
+    .bottom-container{
+        background-color: blueviolet;
+        text-align: center;
+        color: aquamarine;
+        padding-top: 20px;
+        width: 100%;
+        position: absolute;
+        top: 1600px;
+        left: 0px;
+        right: 0px;
+
+    }
+    /* html elements */
+    h1{
+        color: blue;
+        line-height: 2;
+
+    }
+    h2{
+        color: blueviolet;
+        line-height: 2;
+        padding-bottom: 10px;
+
+    }
+    h3{
+        color: brown;
+
+    }
+    p{
+        font-family: Montserrat,sans-serif;
+
+    }
+    a{
+        color: darkcyan;
+
+    }
+    hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-color: chartreuse;
+        border-width: 5px;
+        width: 5%;
+
+    }
+    .hr2{
+        position:relative;
+        left: 15px;
+        top: 680px;
+    }
